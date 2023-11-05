@@ -1,0 +1,159 @@
+{
+   "genres": [
+      "Comedy",
+      "Fantasy",
+      "Crime",
+      "Drama",
+      "Music",
+      "Adventure",
+      "History",
+      "Thriller",
+      "Animation",
+      "Family",
+      "Mystery",
+      "Biography",
+      "Action",
+      "Film-Noir",
+      "Romance",
+      "Sci-Fi",
+      "War",
+      "Western",
+      "Horror",
+      "Musical",
+      "Sport"
+   ],
+   "movies": [
+      {
+         "id": 1,
+         "title": "Barbie: A Magical Adventure",
+         "year": "2022",
+         "runtime": "90",
+         "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+         ],
+         "director": "Barbie Director",
+         "actors": "Barbie, Ken, Skipper, Chelsea",
+         "plot": "Join Barbie and her friends on a magical adventure as they embark on a quest to save their enchanted kingdom from a powerful sorcerer.",
+         "posterUrl": "https://i.ytimg.com/vi/foPCb0D9Yj4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAo0r68jI8kvHJzsBdi6KQLyle8qg"
+      },
+      {
+         "id": 2,
+         "title": "Student of the Year",
+         "year": "2012",
+         "runtime": "145",
+         "genres": [
+            "Drama",
+            "Romance"
+         ],
+         "director": "Karan Johar",
+         "actors": "Sidharth Malhotra, Varun Dhawan, Alia Bhatt, Rishi Kapoor",
+         "plot": "Three college friends navigate love, friendship, and competition to win the 'Student of the Year' trophy.",
+         "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6HyGw7Ofoeemjr-1XfiSMYsujQLKXaejWkcwr95ZRw&sg"
+      },
+      {
+         "id": 3,
+         "title": "Aashiqui 2",
+         "year": "2013",
+         "runtime": "132",
+         "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+         ],
+         "director": "Mohit Suri",
+         "actors": "Aditya Roy Kapur, Shraddha Kapoor",
+         "plot": "A successful musician falls in love with a young aspiring singer, but their love faces numerous challenges and tests.",
+         "posterUrl": "https://i.ndtvimg.com/mt/movies/2014-01/asshiqui2-dramatic.jpg"
+      },
+      {
+         "id": 4,
+         "title": "KGF: Chapter 1",
+         "year": "2018",
+         "runtime": "156",
+         "genres": [
+            "Action",
+            "Drama"
+         ],
+         "director": "Prashanth Neel",
+         "actors": "Yash, Srinidhi Shetty",
+         "plot": "A young man rises to power in the world of gold mining and becomes a ruthless underworld figure in the process.",
+         "posterUrl": "https://images.hindustantimes.com/img/2022/04/14/1600x900/kgf_chapter_2_1649918647729_1649918662419.jpg"
+      },
+      {
+         "id": 5,
+         "title": "Sanam Teri Kasam",
+         "year": "2016",
+         "runtime": "154",
+         "genres": [
+            "Romance",
+            "Drama"
+         ],
+         "director": "Radhika Rao, Vinay Sapru",
+         "actors": "Harshvardhan Rane, Mawra Hocane",
+         "plot": "A touching love story between a troubled musician and a sheltered librarian, who find solace in each other's company despite societal pressures.",
+         "posterUrl": "https://i1.sndcdn.com/artworks-000140676256-88221w-t500x500.jpg"
+      },
+      {
+         "id": 6,
+         "title": "ABCD: Any Body Can Dance",
+         "year": "2013",
+         "runtime": "140",
+         "genres": [
+            "Drama",
+            "Music",
+            "Dance"
+         ],
+         "director": "Remo D'Souza",
+         "actors": "Prabhudheva, Ganesh Acharya, Kay Kay Menon",
+         "plot": "A talented but arrogant dancer faces challenges and redemption when he joins a group of street dancers to compete in a dance competition.",
+         "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY1NzM4NTM3Nl5BMl5BanBnXkFtZTgwNzgzNjA1NTE@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+         "id": 7,
+         "title": "Dilwale Dulhania Le Jayenge",
+         "year": "1995",
+         "runtime": "189",
+         "genres": [
+            "Drama",
+            "Romance",
+            "Comedy"
+         ],
+         "director": "Aditya Chopra",
+         "actors": "Shah Rukh Khan, Kajol, Amrish Puri, Anupam Kher",
+         "plot": "A classic love story of a young man and woman who meet and fall in love during a trip to Europe but face challenges due to family traditions.",
+         "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGfQ5UdRz3Jmsdb8R8m2BwjX1W4V7NRbY6LA&usqp=CAU"
+      },
+      {
+         "id": 8,
+         "title": "Bajrangi Bhaijaan",
+         "year": "2015",
+         "runtime": "163",
+         "genres": [
+            "Drama",
+            "Comedy"
+         ],
+         "director": "Kabir Khan",
+         "actors": "Salman Khan, Harshaali Malhotra, Nawazuddin Siddiqui",
+         "plot": "A man with a big heart embarks on a journey to reunite a mute, lost Pakistani girl with her family in India, overcoming obstacles and fostering cross-border friendship.",
+         "posterUrl": "https://media5.bollywoodhungama.in/wp-content/uploads/2016/03/429191586-306x393.jpg"
+      },
+      {
+         "id": 9,
+         "title": "Fashion",
+         "year": "2008",
+         "runtime": "167",
+         "genres": [
+            "Drama",
+            "Romance"
+         ],
+         "director": "Madhur Bhandarkar",
+         "actors": "Priyanka Chopra, Kangana Ranaut, Mugdha Godse",
+         "plot": "A young woman from a small town aspires to become a successful fashion model in the glamorous but cutthroat world of the fashion industry.",
+         "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Fashion_film.jpg/220px-Fashion_film.jpg"
+      }
+   ]
+     
+      
+}

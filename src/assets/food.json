@@ -1,0 +1,82 @@
+{
+    "food":[
+        {
+            "id": 1,
+            "name": "Pizza Margherita",
+            "type": "Pizza",
+            "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Basil", "Olive Oil"],
+            "description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, fresh basil leaves, and a drizzle of olive oil.",
+            "image": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Burger",
+            "type": "Fast Food",
+            "ingredients": ["Beef Patty", "Lettuce", "Tomato", "Cheese", "Bun"],
+            "description": "A delicious burger with a juicy beef patty, lettuce, tomato, cheese, and served in a soft bun.",
+            "image": "https://t3.ftcdn.net/jpg/02/44/61/14/360_F_244611436_4WKrV3YAOBo0LKe9S7hoXv55aDmgwvwr.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Pasta Carbonara",
+            "type": "Italian",
+            "ingredients": ["Spaghetti", "Pancetta", "Eggs", "Parmesan Cheese", "Black Pepper"],
+            "description": "A classic Italian pasta dish made with spaghetti, pancetta, eggs, Parmesan cheese, and a generous sprinkle of black pepper.",
+            "image": "https://media.istockphoto.com/id/857927726/photo/pasta-with-meat-tomato-sauce-and-vegetables.jpg?s=612x612&w=0&k=20&c=1bcoXcBKM7Hb1ASweDx-vcwXEgy-WrCGM71dVP2Cp0w="
+          },
+          {
+            "id": 4,
+            "name": "Salad",
+            "type": "Healthy",
+            "ingredients": ["Lettuce", "Tomato", "Cucumber", "Bell Pepper", "Dressing"],
+            "description": "A fresh and healthy salad made with crisp lettuce, tomato, cucumber, bell pepper, and your choice of dressing.",
+            "image": "https://img.freepik.com/premium-photo/salad-tomatoes-cucumber-red-onions-lettuce-leaves_2829-1732.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Dosa",
+            "type": "South Indian",
+            "ingredients": ["Rice Batter", "Urad Dal", "Fenugreek Seeds"],
+            "description": "Dosa is a popular South Indian crepe made from a fermented batter of rice and urad dal. It is usually served with various chutneys and sambar.",
+            "image": "https://opt.toiimg.com/recuperator/img/toi/m-65164556/65164556.jpg&width=500&resizemode=4"
+          },
+          {
+            "id": 6,
+            "name": "Maggi",
+            "type": "Instant Noodles",
+            "ingredients": ["Noodles", "Maggi Masala", "Water"],
+            "description": "Maggi is a brand of instant noodles known for its quick preparation. Simply boil the noodles, add the Maggi masala, and enjoy a delicious snack.",
+            "image": "https://im.rediff.com/getahead/2020/sep/29burnt-garlic-chilli-maggi.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Manchurian",
+            "type": "Indo-Chinese",
+            "ingredients": ["Vegetables", "Flour", "Soy Sauce", "Garlic", "Ginger"],
+            "description": "Manchurian is a popular Indo-Chinese dish made from deep-fried vegetable balls, typically served with a flavorful Manchurian sauce.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gobi_Manchurian.jpg/640px-Gobi_Manchurian.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Cake",
+            "type": "Dessert",
+            "ingredients": ["Flour", "Sugar", "Eggs", "Butter", "Vanilla Extract"],
+            "description": "Cake is a classic dessert made from a mixture of flour, sugar, eggs, butter, and flavorings. It can be customized with various toppings and frostings.",
+            "image": "https://www.cakehut.in/image/cache/catalog/2021%20cake%20photos/Double%20Chocolatee-1701x1423.jpg.webp"
+          },
+          {
+            "id": 9,
+            "name": "Fried Rice",
+            "type": "Chinese",
+            "ingredients": ["Cooked Rice", "Vegetables (Carrots, Peas, Bell Peppers)", "Eggs", "Soy Sauce", "Sesame Oil"],
+            "description": "Fried rice is a popular Chinese dish made by stir-frying cooked rice with a variety of ingredients such as vegetables, eggs, and seasonings.",
+            "image": "https://cdn.pixabay.com/photo/2021/05/31/01/10/fried-rice-6297407_640.jpg"
+          }
+          
+          
+          
+          
+             
+          
+    ]
+}

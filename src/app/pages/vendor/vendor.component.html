@@ -1,0 +1,24 @@
+<div class="movie-section">
+    <div *ngFor="let movie of jsonData">
+      <div class="movie_card" id="ave">
+          <div class="info_section">
+            <div class="movie_header">
+              <img class="locandina" [src]="movie.image " />
+              <h1>{{ movie.name }}</h1>
+              <h4>{{ movie.type.split(',').splice(0,2) }}</h4>
+              <span class="minutes">{{ movie.products }} </span> 
+            </div>
+            <div class="movie_desc">
+            </div>  
+            <div class="movie_social">
+              <ul>
+                <li><i class="material-icons">share</i></li>
+                <li><i class="material-icons">chat_bubble</i></li>
+              </ul>
+            </div>
+          </div>
+          <div style="background-image: url('{{ movie.image }}');" class="blur_back ave_back"></div>
+  
+        </div>
+    </div>
+  </div>

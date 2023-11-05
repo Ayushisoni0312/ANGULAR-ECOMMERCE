@@ -1,0 +1,83 @@
+{
+    "vendor":[
+        {
+            "id": 1,
+            "name": "Best Electronics",
+            "type": "Electronics Retailer",
+            "products": ["Smartphones", "Laptops", "Accessories"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToV8Gb-iJLMwwkQVt4itUQ4xvM94WnAKpCkA&usqp=CAU"
+          },
+          {
+            "id": 2,
+            "name": "Mobile",
+            "type": "Mobile Devices Retailer",
+            "products": ["Smartphones", "Tablets", "Accessories"],
+            "image": "https://www.samsungmobilepress.com/file/B1451680D49421D2EF196E8744B721CB102084AE494FEF3EA0040E0EA67ED31E895F515F2E6B5A8920B2251EF086C1662A573753A31D59F35A05E4724CEA7A052F35353ECFFE1C40AC11DF482128D81EA3D05347CFFF7AD38B703E0F7BB4F7847C1395FF032CCD0E85C72D1D97B6B2DFDBC24B570CAFE3316C10B5EFEE876114"
+          },
+          {
+            "id": 3,
+            "name": "Fridge",
+            "type": "Appliance Retailer",
+            "products": ["Refrigerators", "Freezers", "Cooling Appliances"],
+            "description": "Fridge is your go-to destination for high-quality refrigeration appliances. We offer a range of refrigerators, freezers, and cooling appliances to keep your food fresh and your drinks cold.",
+            "image": "https://home.liebherr.com/external/products/products-assets/b40e22f0-4069-496a-bb9f-5e1ebedaf02f/IMG_390x390/TCrf%202610.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Headphones",
+            "type": "Audio Equipment Retailer",
+            "products": ["Headphones", "Earphones", "Speakers"],
+            "description": "Headphones is a leading retailer of audio equipment. We offer a wide selection of headphones, earphones, and speakers for an immersive audio experience.",
+            "image": "https://img.freepik.com/premium-photo/3d-illustration-purple-retro-headphones-purple-isolated-background-white-lights-headphone-icon-illustration_116124-7777.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Cosmetics",
+            "type": "Cosmetics and Beauty Retailer",
+            "products": [ "Makeup Brushes", "Skincare"],
+            "description": "Lipstick is your one-stop shop for cosmetics and beauty products. We offer a wide range of lipsticks, makeup brushes, and skincare products to enhance your beauty and style.",
+            "image": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-2533266.jpg&fm=jpg"
+          },
+          {
+            "id": 6,
+            "name": "Furniture",
+            "type": "Furniture and Home Decor Retailer",
+            "products": ["Furniture Sets", "Lighting"],
+            "description": "Furniture offers a wide selection of furniture and home decor items to beautify your living space. Explore our furniture sets, home decor, and lighting solutions to create a cozy and stylish home.",
+            "image": "https://media.istockphoto.com/id/1415799772/photo/home-interior-with-vintage-furniture.webp?b=1&s=170667a&w=0&k=20&c=7n4U6vnFtYrX-FE84s2GXIzqkBIkvPTAE2uG8mB8MLA="
+          },
+          {
+            "id": 7,
+            "name": "AC",
+            "type": "Air Conditioning Systems Retailer",
+            "products": ["Air Conditioners", "Cooling"],
+            "description": "AC is your trusted source for air conditioning and cooling solutions. We offer a variety of air conditioners, cooling units, and HVAC systems to keep your indoor environment comfortable and cool.",
+            "image": "https://img.freepik.com/free-vector/air-conditioner-with-cold-wind_107791-2884.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Utensils",
+            "type": "Kitchen Utensils and Cookware Retailer",
+            "products": ["Cooking Utensils", "Pots"],
+            "description": "Utensils offers a wide range of kitchen utensils and cookware for your culinary needs. Explore our cooking utensils, pots and pans, and cutlery to equip your kitchen with the best tools.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kitchen_utensils-01.jpg/1200px-Kitchen_utensils-01.jpg"
+          },
+          {
+            "id": 9,
+            "name": "Clothes",
+            "type": "Clothing and Apparel Retailer",
+            "products": ["Dresses", "Shirts", "Accessories"],
+            "description": "Clothes is your destination for fashionable clothing and apparel. We offer a wide selection of dresses, shirts, footwear, and accessories to help you stay stylish and comfortable.",
+            "image": "https://img.freepik.com/free-photo/cute-young-girl-with-dark-wavy-hairstyle-bright-makeup-silk-dress-black-jacket-holding-sunglasses-hands-looking-away-against-beige-building-wall_197531-24462.jpg"
+          }
+          
+          
+          
+          
+          
+          
+          
+          
+          
+    ]
+}
